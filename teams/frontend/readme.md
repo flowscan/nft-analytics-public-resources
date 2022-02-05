@@ -4,17 +4,17 @@
 
 There will be two pages for this project. 
 
-The first one is the *Specific NFT Analytics* page. Located as a new tab(s) on NFT contract page (e.g. https://flowscan.org/contract/A.0b2a3299cc857e29.TopShot). In this page we would need: 
-- Sales 
+The first one is the *Global NFT Analytics* page. Located at https://flowscan.org/nft-stats. In this page we would need:
+- List of all NFT projects on Flow, sorted by 24h volume
+- Aggregated total sales volume & activity display
+- Charts for the number of NFT owners over time (per-project) 
+
+The second one is the *Specific NFT Analytics* page. Located as a new tab(s) on NFT contract page (e.g. https://flowscan.org/contract/A.0b2a3299cc857e29.TopShot). In this page we would need: 
+- Sales activity / volume
 - Numbers of listings
 - Number of owners
 - Floor and average prices
 - Top Holders
-
-The second one is the *Global NFT Analytics* page. Located at https://flowscan.org/nft-stats. In this page we would need:
-- List of all NFT projects on Flow, sorted by 24h volume
-- Aggregated total sales volume & activity display
-- Charts for the number of NFT owners over time (per-project) 
 
 ## Typescript 
 
