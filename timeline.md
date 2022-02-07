@@ -37,6 +37,8 @@ NFT metadata / traits indexers are a very complex project which could take *5 we
 
 Although the mock-up design are placed at two weeks in February, changes in design could happen mid-development and to be communicated with related teams (e.g. GraphQL or Metrics).
 
+The *Global Dashboard* might be updated to add more fields at the first half of May (alongside with the launch of *Specific Dashboard*), because at this time, more data is available from the *NFT Metadata API*.
+
 ### Flowscan
 
 Every launch weeks (e.g. 3rd week of March) the Flowscan team may ask teams other for assistance in integration and deployment. 

@@ -2,29 +2,25 @@
 
 This repository is dedicated to provide information and resources for the NFT analytics bounty program by Flowscan. 
 
-## Overview 
+We need to display analytics for NFT projects on the Flow blockchain. These information would help in giving insights for our users on the activity and state of NFT projects deployed on Flow. Project owners would also benefit from the insights and data.
 
-## Teams
+We are planning to have two additional pages on Flowscan. 
 
-We're planning to recruit 4 teams to do this project. 
+The first one is the *Global NFT Analytics* page. Located at https://flowscan.org/nft-stats. In this page, we would like to display the overall state of NFT sales and volume on the Flow blockchain. Example components on this page:
+- List of all NFT projects on Flow with basic stats such as 24h sales and transfers
+- List of all marketplaces on Flow with basic stats such as 24h volume and trades
+- Statistics of the activity, (e.g. sales, volume), presented in charts and counters
 
-Note that a _team_ here can be one individual or a group of individuals, and one individual can work in multiple teams. The planned teams are: 
+The second one is the *Specific NFT Analytics* page. Located as a new tab(s) on NFT contract page (e.g. https://flowscan.org/contract/A.0b2a3299cc857e29.TopShot). In this page, we would like to display more specific, in-depth metrics on a particular NFT project, such as: 
+- Sales activity / volume
+- Numbers of listings
+- Number of owners
+- Floor and average prices
+- Top Holders
+- Traits distribution
 
-### 1. Indexers 
+Please refer to the pages hosted in this repository for more information: 
 
-Two major tasks: 
-- Build a service (written in `go`) to index and standarise marketplace listings and sales across the chain. 
-- Build a service (written in `go`) to index NFT metadata 
-
-### 2. Metrics Aggregator
-
-Build a service (written in `go`) to aggregate data from our data sources (PostgreSQL) and store them as time-series analytics data
-
-### 3. GraphQL
-
-Expand our GraphQL service (written in `go`) to add additional queries for NFT analytics.
-
-### 4. Frontend 
-
-*Design* and *develop* the front-end web interface.
-
+[Timeline](timeline.md) describes the planned timeline for this project. 
+[Grants](grants.md) describes the planned allocation of the grants for this project.
+[Architecture](grants.md) describes the planned architecture of this project.
