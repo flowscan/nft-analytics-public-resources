@@ -1,5 +1,7 @@
 # Architecture
 
+*THIS PAGE IS OBSOLETE, WILL BE UPDATED SOON*
+
 The project can be divided into four major parts. 
 - The marketplace indexers
 - Metrics aggregator
