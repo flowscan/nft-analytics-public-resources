@@ -8,7 +8,7 @@ This repository is dedicated to provide information and resources for the NFT an
 
 We're planning to recruit 4 teams to do this project. 
 
-Note that a _team_ here can be one individual or a group of people, and one individual can work in multiple teams. The teams are: 
+Note that a _team_ here can be one individual or a group of individuals, and one individual can work in multiple teams. The planned teams are: 
 
 ### 1. Indexers 
 
