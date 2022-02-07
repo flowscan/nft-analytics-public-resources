@@ -1,6 +1,6 @@
 # Grants
 
-Total budget: *20,000.00 USD*
+Total budget: **20,000.00 USD**
 
 ## Breakdown
 
@@ -8,7 +8,7 @@ The grant will be allocated for *4 teams*. Note that the term _team_ here can be
 
 ### Indexer Team
 
-Allocation: *8,000.00 USD*
+Allocation: **8,000.00 USD**
 
 Tasks: 
 - Build a service to index and standarise marketplace listings and sales across the chain.
@@ -24,14 +24,14 @@ Tasks:
 
 The services must be written in `go`
 
-Allocation: *4,000.00 USD*
+Allocation: **4,000.00 USD**
 
 ### GraphQL
 
 Tasks: 
 - Expand our GraphQL service (written in `go`) to add additional queries needed by the front-end team, the service would only need to fetch from existing `PostgreSQL` database
 
-Allocation: *2,000.00 USD*
+Allocation: **2,000.00 USD**
 
 ### Front-end
 
@@ -39,4 +39,4 @@ Tasks:
 - Design the NFT analytics dashboards, build a mockup with a familiar Flowscan design
 - Develop the front-end web interface using `React` and consuming `GraphQL` APIs
 
-Allocation: *6,000.00 USD*
+Allocation: **6,000.00 USD**

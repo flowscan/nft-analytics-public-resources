@@ -1,6 +1,6 @@
 # Architecture
 
-*THIS PAGE IS OBSOLETE, WILL BE UPDATED SOON*
+**THIS PAGE IS OBSOLETE, WILL BE UPDATED SOON**
 
 The project can be divided into four major parts. 
 - The marketplace indexers
@@ -23,14 +23,14 @@ Time-series data including:
 - Number of holders
 - Number of tokens listed on the marketplace
 - Sales activity (e.g. number of sales / day)
-- More metrics could be requested by the *Frontend* team
+- More metrics could be requested by the **Frontend** team
 
 ## GraphQL API
 Expand the current Flowscan's GraphQL API to includes queries for
 - Marketplace listings and sales
 - Historical NFT listings and sales
-- Metrics made by the *Metrics Aggregator* team 
-- Other queries requested by the *Frontend* team
+- Metrics made by the **Metrics Aggregator** team 
+- Other queries requested by the **Frontend** team
 
 ## Web Frontend
 Design and develop the front-end web interface for
