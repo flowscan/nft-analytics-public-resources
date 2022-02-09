@@ -34,7 +34,7 @@ We might schedule a short interview to know more about the applicants.
 
 ## 3. Onboarding 
 
-We'll notify the applicants that we selected (under our own discretion) and we will provide the necessary resources as an onboarding process. 
+We'll notify the applicants that we have selected (under our own discretion) and we will provide the necessary resources as an onboarding process. 
 
 ## 4. Development 
 

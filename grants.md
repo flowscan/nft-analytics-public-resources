@@ -1,6 +1,6 @@
 # Grants
 
-Total budget: **20,000.00 USD**
+Total: **20,000.00 USD**
 
 ## Payment
 
