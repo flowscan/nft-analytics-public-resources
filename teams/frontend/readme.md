@@ -1,5 +1,7 @@
 # Front-end 
 
+TODO
+
 ## Typescript 
 
 We're using TypeScript for our project, so we would need this analytics project to use TypeScript so that we can easily expand / modify it in the future whenever needed.

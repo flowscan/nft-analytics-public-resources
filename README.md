@@ -21,7 +21,7 @@ The second one is the **Specific NFT Dashboard** page. This page will be located
 
 Displaying these information would help in giving insights for Flow users to know more about the activity of NFT projects on the Flow blockchain. Project owners would also benefit from the insights and data of their project. 
 
-We believe that this project could help enrich the Flow ecosystem as a tool that both the consumers and project owners find useful. 
+We believe that this project could help enrich the Flow ecosystem as a tool that both the consumers and project owners find useful. If you're interested in working together with us to create an important tool for the Flow ecosystem, feel free to [apply](apply.md)!
 
 ## Process
 
@@ -36,5 +36,3 @@ Please refer to the pages hosted in this repository for more information:
 [Timeline](timeline.md) describes the planned timeline for this project. 
 
 [Grants](grants.md) describes the planned allocation of the grants for this project.
-
-[Apply](apply.md) if you're interested in working together with us to create an important tool for the Flow ecosystem. 

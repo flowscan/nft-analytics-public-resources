@@ -2,19 +2,23 @@
 
 Total budget: **20,000.00 USD**
 
+## Payment
+
+Grant payment will be done after the tasks for the selected teams are delivered and cleared.
+
+We will do the payment in *USDC* tokens. The applicants may choose the desired platform to receive them.
+
 ## Breakdown
 
 The grant will be allocated for *4 teams*. Note that the term _team_ here can be one individual or a group of individuals.
 
 ### Indexer Team
 
-Allocation: **8,000.00 USD**
-
-Tasks: 
-- Build a service to index and standarise marketplace listings and sales across the chain.
-- Build a service to index all NFTs metadata on-chain
+Task: Build a service to index all currently available NFTs metadata on-chain
 
 The services must be written in `go`
+
+Allocation: **8,000.00 USD**
 
 ### Metrics Aggregator
 
