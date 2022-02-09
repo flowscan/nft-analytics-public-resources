@@ -6,7 +6,7 @@ Total: **20,000.00 USD**
 
 Grant payment will be done after the tasks for the selected teams are delivered and cleared.
 
-We will do the payment in *USDC* tokens. The applicants may choose the desired platform to receive them.
+We will do the payment in **USDC** tokens. The applicants may choose the desired platform to receive them.
 
 ## Breakdown
 
