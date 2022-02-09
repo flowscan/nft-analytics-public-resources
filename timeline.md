@@ -1,6 +1,6 @@
 # Timeline
 
-![image](https://user-images.githubusercontent.com/16462328/153235112-54b260b7-c537-4347-bc11-c30b1aad7e99.png)
+![image](https://user-images.githubusercontent.com/16462328/153236215-af2bc260-6e14-4c12-9d4b-0f246bf332cc.png)
 
 ### Disclaimer
 
