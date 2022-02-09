@@ -1,6 +1,10 @@
 # Timeline
 
-![image](https://user-images.githubusercontent.com/16462328/152789887-50f3df5b-18fb-4e31-a0c5-ed7ec159251d.png)
+![image](https://user-images.githubusercontent.com/16462328/153235112-54b260b7-c537-4347-bc11-c30b1aad7e99.png)
+
+### Disclaimer
+
+The timeline written here are just an estimation based on the current scope of the project. The timeline is flexible, i.e. some tasks can be done faster or slower than expected.
 
 ## Notes
 
