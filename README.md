@@ -44,3 +44,5 @@ Please refer to the pages hosted in this repository for more information:
 [Timeline](timeline.md) describes the planned timeline for this project. 
 
 [Grants](grants.md) describes the planned allocation of the grants for this project.
+
+Join our [Discord](https://discord.gg/WDnc3kvGxM) for further questions! 
