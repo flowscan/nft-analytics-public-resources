@@ -1,5 +1,7 @@
 # Flowscan NFT Dashboard Development Bounty Program
 
+![image](https://user-images.githubusercontent.com/16462328/138827017-6720a229-e1d9-4d14-8185-589414669b90.png)
+
 Welcome! 
 
 This repository is dedicated to provide information and resources for the NFT dashboard development bounty program by Flowscan. 
