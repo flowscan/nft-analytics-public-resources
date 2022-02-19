@@ -12,12 +12,6 @@ The timeline written here are just an estimation based on the current scope of t
 
 **Indexers** projects requires no dependencies.
 
-**Marketplace Indexers** are planned to be finished within **1 week** on the third week of February. It is a simple service without much variations (there's not that many marketplaces compared to NFT projects for example). 
-
-After finishing the marketplace indexer, the team can start working on the **NFT Metadata Indexer**.
-
-NFT metadata / traits indexers are a very complex project which could take **5 weeks**.
-
 ### Metrics Aggregator
 
 **Marketplace Metrics** dependencies:
@@ -41,7 +35,7 @@ NFT metadata / traits indexers are a very complex project which could take **5 w
 
 Although the mock-up design are placed at two weeks in February, changes in design could happen mid-development and to be communicated with related teams (e.g. GraphQL or Metrics).
 
-The **Global Dashboard** might be updated to add more fields at the first half of May (alongside with the launch of **Specific Dashboard**), because at this time, more data is available from the **NFT Metadata API**.
+The **Global Dashboard** might be updated to add more fields (alongside with the launch of **Specific Dashboard**), because at this time, more data is available from the **NFT Metadata API**.
 
 ### Flowscan
 
