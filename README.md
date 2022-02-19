@@ -33,9 +33,11 @@ We believe that this project could help enrich the Flow ecosystem as a tool that
 
 ## Process
 
+To do this project, we would need **4 teams** building different parts of the project (see more in [grants](grants.md)). 
+
 If you're interested in working together with us to create an important tool for the Flow ecosystem, feel free to [apply](apply.md) for this development bounty!
 
-Selected applicants will develop together with the Flowscan team in building this project, with the tasks assigned according to the applicant's team (see more in [grants](grants.md)). 
+Selected applicants will develop together with the Flowscan team in building this project, with the tasks assigned according to the applicant's team.
 
 All applicants shall join our private Discord channels dedicated for this project as a main method of communication between teams. Depending on the applicants availability we might have a weekly call as a progress report and sync-up between teams.   
 
