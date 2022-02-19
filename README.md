@@ -1,17 +1,21 @@
 # Flowscan NFT Dashboard Resources
 
-This repository is dedicated to provide information and resources for the NFT dashboard grants program by Flowscan. 
+Welcome! This repository is dedicated to provide information and resources for the NFT dashboard grants program by Flowscan. 
 
 ## Project Overview
 
-We are planning to have two additional pages on Flowscan. 
+We are planning to have **two** additional pages on Flowscan. 
 
-The first one is the **Global NFT Dashboard** page. This page will be located at https://flowscan.org/nft-stats. In this page, we would like to display the overall state of NFT sales and volume on the Flow blockchain, for example:
+### 1. Global NFT Dashboard
+
+This page will be located at https://flowscan.org/nft-stats. In this page, we would like to display the overall state of NFT sales and volume on the Flow blockchain, for example:
 - List of all NFT projects on Flow with basic stats such as 24h sales and transfers
 - List of all marketplaces on Flow with basic stats such as 24h volume and trades
 - Statistics of the activity, (e.g. sales, volume), presented in charts and counters
 
-The second one is the **Specific NFT Dashboard** page. This page will be located as a new tab(s) on NFT contract page (e.g. https://flowscan.org/contract/A.0b2a3299cc857e29.TopShot). In this page, we would like to display more specific, in-depth metrics on a particular NFT project, such as: 
+### 2. Specific NFT Dashboard 
+
+This page will be located as a new tab(s) on NFT contract page (e.g. https://flowscan.org/contract/A.0b2a3299cc857e29.TopShot). In this page, we would like to display more specific, in-depth metrics on a particular NFT project, such as: 
 - Sales activity / volume
 - Numbers of listings
 - Number of owners

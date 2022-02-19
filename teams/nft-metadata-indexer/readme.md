@@ -1,2 +1,0 @@
-# NFT Metadata Indexer
-
