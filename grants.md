@@ -18,6 +18,8 @@ Task: Using our own event indexer, build a service to index all currently availa
 
 The services must be written in `go`
 
+Requirements: Knowledge of PostgreSQL, Go, and extracting data from Flow smart contracts / events
+
 Allocation: **8,000.00 USD**
 
 ### Metrics Aggregator
@@ -28,12 +30,16 @@ Tasks:
 
 The services must be written in `go`
 
+Requirements: Knowledge of PostgreSQL and Go
+
 Allocation: **4,000.00 USD**
 
 ### GraphQL
 
 Tasks: 
 - Expand our GraphQL service (written in `go`) to add additional queries needed by the front-end team, the service would only need to fetch from an existing `PostgreSQL` database
+
+Requirements: Knowledge of PostgreSQL, Go, and GraphQL
 
 Allocation: **2,000.00 USD**
 
@@ -42,5 +48,7 @@ Allocation: **2,000.00 USD**
 Tasks: 
 - Design the NFT analytics dashboards, build a mockup with a familiar Flowscan design interface
 - Develop the front-end web interface using `React` consuming `GraphQL` APIs
+
+Requirements: Knowledge of React and GraphQL 
 
 Allocation: **6,000.00 USD**
