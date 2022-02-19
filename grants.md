@@ -10,7 +10,7 @@ We will do the payment in **USDC** tokens. The applicants may choose the desired
 
 ## Breakdown
 
-The grant will be allocated for *4 teams*. Note that the term _team_ here can be one individual or a group of individuals.
+The grant will be allocated for *4 teams*. Note that the term _team_ here can be one individual or a group of individuals. You can check the [Timeline](timeline.md) page for the estimated timeline of the tasks.
 
 ### Indexer Team
 
