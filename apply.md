@@ -1,6 +1,6 @@
 # Applying
 
-If you're interested for this program, below are the steps to apply. We start receiving applications from **20 February 2022** until **28 February 2022**. Feel free to join our [Discord](https://discord.gg/j7aQ23es) if you have any questions before applying.
+If you're interested for this program, below are the steps to apply. We start receiving applications from **20 February 2022** until **28 February 2022**. Feel free to join our [Discord](https://discord.gg/2SbW3ZaynS) if you have any questions before applying.
 
 ## 1. Send an application
 
