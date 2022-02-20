@@ -33,7 +33,7 @@ We believe that this project could help enrich the Flow ecosystem as a tool that
 
 ## Process
 
-To do this project, we would need **4 teams** building different parts of the project (see more in [grants](grants.md)). 
+To do this project, we would need **4 teams** building different parts of the project, ranging from NFT indexers to front-end React application (see more in [grants](grants.md)). 
 
 If you're interested in working together with us to create an important tool for the Flow ecosystem, feel free to [apply](apply.md) for this development bounty!
 
